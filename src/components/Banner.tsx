@@ -3,7 +3,6 @@ import { Box, Button, Card, CardContent, Typography } from "@mui/material";
 import { grey, indigo, } from '@mui/material/colors';
 import AddOutlinedIcon from '@mui/icons-material/AddOutlined';
 
-
 const Banner = () => {
     return (
         <>
