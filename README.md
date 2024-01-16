@@ -1,3 +1,17 @@
+
+## Project Details:
+
+A simple website for courses and blogs developer using React js as frontend and Material UI as framework.
+
+## Deployment Link:
+[Link](https://mounika-sangishetty.github.io/react-mui-assignment/)
+
+![image](https://github.com/Mounika-Sangishetty/react-mui-assignment/assets/127507517/b27b8978-9c43-42db-a9e4-7507b93a8b66)
+![image](https://github.com/Mounika-Sangishetty/react-mui-assignment/assets/127507517/b564da3a-9935-4ba6-9a5e-161d627cbcfa)
+
+
+![localhost_3000_react-mui-assignment](https://github.com/Mounika-Sangishetty/react-mui-assignment/assets/127507517/cf297680-1aa0-4fa7-aeaa-781b5bb01812)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,8 +53,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
