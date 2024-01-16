@@ -11,7 +11,14 @@ const MailBox = () => {
                 <Box sx={{width:{md:'60%',sm:'100%'},backgroundColor:'secondary.light', padding:'10px', borderRadius:'6px'}}>
                     <FormControl sx={{ width: '100%', mb: 0 }} variant="filled">
                         <InputLabel htmlFor="filled-adornment-password">Enter Your Email</InputLabel>
-                        <FilledInput sx={{backgroundColor:'white', border:'none', borderRadius:'4px'}}
+                        <FilledInput 
+                            sx={{
+                                '&:focus, &:hover, &:focus-within': {
+                                    backgroundColor: 'white',
+                                    border: 'none',
+                                    boxShadow: 'none',
+                                },
+                            backgroundColor:'white', border:'none', borderRadius:'4px'}}
                             id="filled-adornment-password"
                             type={'email'}
                             endAdornment={

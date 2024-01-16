@@ -4,6 +4,7 @@ import { grey } from "@mui/material/colors";
 import AppleIcon from '@mui/icons-material/Apple';
 import ShopIcon from '@mui/icons-material/Shop';
 import { makeStyles } from '@mui/styles';
+
 const useStyles = makeStyles((theme) => ({
   mobileImage: {
     height:'420px',
