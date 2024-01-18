@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/react-mui-assignment/static/css/main.e6c13ad2.css",
-    "main.js": "/react-mui-assignment/static/js/main.45841af7.js",
+    "main.js": "/react-mui-assignment/static/js/main.c7e914af.js",
     "static/js/787.602fa53f.chunk.js": "/react-mui-assignment/static/js/787.602fa53f.chunk.js",
     "static/media/course3.jpg": "/react-mui-assignment/static/media/course3.c415d187de5ce59bf332.jpg",
     "static/media/course2.jpg": "/react-mui-assignment/static/media/course2.7314bb98801ec594face.jpg",
     "static/media/books.jpg": "/react-mui-assignment/static/media/books.113d0c84b1ef9be9cbd0.jpg",
+    "static/media/logo-dummy-removebg-preview.png": "/react-mui-assignment/static/media/logo-dummy-removebg-preview.8e0ec585f45e8c1c4f59.png",
     "index.html": "/react-mui-assignment/index.html",
     "main.e6c13ad2.css.map": "/react-mui-assignment/static/css/main.e6c13ad2.css.map",
-    "main.45841af7.js.map": "/react-mui-assignment/static/js/main.45841af7.js.map",
+    "main.c7e914af.js.map": "/react-mui-assignment/static/js/main.c7e914af.js.map",
     "787.602fa53f.chunk.js.map": "/react-mui-assignment/static/js/787.602fa53f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.45841af7.js"
+    "static/js/main.c7e914af.js"
   ]
 }
