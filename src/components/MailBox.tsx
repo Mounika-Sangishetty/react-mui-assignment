@@ -4,7 +4,7 @@ const MailBox = () => {
     return (
         <Container maxWidth="md" sx={{ bgcolor: 'secondary.main', borderRadius: {md:'8px',xs:'0'}, margin:{xs:'2rem 0',md:'2rem auto'} }}>
             <Box
-                sx={{ display: 'flex', flexDirection:{md:'row',xs:'column'},gap:'20px',justifyContent: 'space-between', backgroundColor: 'secondary', padding: {md:'50px',xs:'20px'}, margin: {md:'40px 0 70px 0',sm:'20px 0 35px 0'} }} >
+                sx={{ display: 'flex', flexDirection:{md:'row',xs:'column'},gap:'20px',justifyContent: 'space-between', backgroundColor: 'secondary', padding: {md:'50px',xs:'15px'}, margin: {md:'40px 0 70px 0',sm:'20px 0 35px 0'} }} >
                 
                 <Typography variant="h4" color={"white"}>Subscribe to our newsletter to receive the latest updates.</Typography>
                 
@@ -23,9 +23,11 @@ const MailBox = () => {
                             type={'email'}
                             endAdornment={
                                 <InputAdornment position="end">
-                                    <IconButton>
-                                        <ArrowForwardIcon />
-                                    </IconButton>
+                                    <Box sx={{backgroundColor:'secondary.main',borderRadius:'4px', padding:'2px 10px', marginRight:'-5px'}}>
+                                        <IconButton sx={{color:'white'}}>
+                                            <ArrowForwardIcon />
+                                        </IconButton>
+                                    </Box>                                   
                                 </InputAdornment>
                             }
                         />

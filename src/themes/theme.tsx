@@ -11,10 +11,11 @@ let appTheme = createTheme({
     spacing: (factor: number) => `${0.25 * factor}rem`,
     palette: {
       primary: {
-        main: brown[900],
+        main: '#261B1B',
       },
       secondary: orange,     
     },
+    
     components: {
       MuiButton: {
         styleOverrides: {

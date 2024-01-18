@@ -44,7 +44,7 @@ const Footer = () => {
         <Typography
           variant="h3"
           color={"white"}
-          sx={{ lineHeight: '1.5' }}
+          sx={{ lineHeight: '1.5', width:{xs:'100%', md: '50%'}, textAlign:{xs:'center',sm:'left'}}}
         >
           Stay Updated With Our App!!
         </Typography>
@@ -54,6 +54,7 @@ const Footer = () => {
             alignItems:'center',
             columnGap: '20px',
             marginTop: '20px',
+            justifyContent: {md:'flex-start',xs:'center'}
           }}
         >
           <Typography variant="h6" color="secondary">
